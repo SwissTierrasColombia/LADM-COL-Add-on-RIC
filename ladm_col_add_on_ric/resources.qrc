@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/LADM-COL-Add-on-RIC">
+    <file>resources/images/add_on.png</file>
+  </qresource>
+</RCC>
